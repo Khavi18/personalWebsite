@@ -1,0 +1,70 @@
+
+/*
+265073
+2D9596
+9AD0C2
+F1FADA
+*/
+
+.top {
+    background-color: #F1FADA;
+    padding-bottom: 10px;
+}
+
+.interests {
+    background-color: #F1FADA;
+}
+
+div {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+h1 {
+    color: #2D9596;
+    font-family: "Lato", sans-serif;
+    font-weight: 900;
+    font-style: normal;
+}
+
+h2 {
+    color: #2D9596;
+    font-family: "Lato", sans-serif;
+    font-weight: 600;
+    font-style: normal;
+}
+
+h3 {
+    color: #265073;
+    font-family: "Lato", sans-serif;
+    font-weight: 600;
+    font-style: normal;
+}
+
+h4 {
+    color: #2D9596;
+    font-size: 18px;
+    font-family: "Lato", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+
+}
+
+p {
+    font-family: "Lato", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+a {
+    font-family: "Lato", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.profile-pic {
+    width: 200px;
+    border-radius: 50%;
+}
